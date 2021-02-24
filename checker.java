@@ -1,3 +1,9 @@
+
+// Java Comparator Interface
+//Given an array of n Player objects, write a comparator that sorts them in order of decreasing score; if 2 or more players have the same score, sort those players alphabetically by name. 
+
+
+
 import java.util.*;
 import java.util.Comparator.*;
 class Checker implements Comparator<Player>
